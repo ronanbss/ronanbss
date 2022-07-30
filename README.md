@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronanbss
-- 👀 I’m interested in backend development!
+- 👀 I’m interested in mobile and backend development!
 - 🌱 I’m currently learning java, python and mobile.
 - 📫 How to reach me:
 - linkedin: https://www.linkedin.com/in/ronan-brito-17b290b4/
