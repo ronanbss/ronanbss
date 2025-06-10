@@ -1,6 +1,6 @@
-👋 Hi, I’m @ronanbss
-I’m interested in mobile and backend development!
-I’m currently learning Mobile with Kotlin.
+👋 Hi, I’m @ronanbss  
+I’m interested in mobile and backend development!  
+I’m currently learning Mobile with Kotlin.  
 
 📫 How to reach me:
 
