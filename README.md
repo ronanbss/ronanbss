@@ -1,4 +1,4 @@
-## 🚀 Sobre mim
+## 🚀 About me
 Hello, my name is Ronan. I am currently studying front-end development using Nest.JS and Mobile Development with Kotlin.  
 I have wide experience in Outsystems development and with Backend development using python.  
 
