@@ -1,6 +1,6 @@
 👋 Hi, I’m @ronanbss  
-I’m interested in mobile and backend development!  
-I’m currently learning Mobile with Kotlin.  
+Hello, my name is Ronan. I am currently studying front-end development using Nest.JS and Mobile Development with Kotlin.  
+I have wide experience in Outsystems development and with Backend development using python.  
 
 📫 How to reach me:
 
