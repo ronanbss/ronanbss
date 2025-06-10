@@ -2,6 +2,8 @@
 Hello, my name is Ronan. I am currently studying front-end development using Nest.JS and Mobile Development with Kotlin.  
 I have wide experience in Outsystems development and with Backend development using python.  
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ronanbss&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronan-brito-17b290b4/)
